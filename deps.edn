@@ -2,8 +2,8 @@
  {org.clojure/clojure {:mvn/version "1.10.0"},
   org.clojure/core.async {:mvn/version "1.3.610"},
   fm/fm
-  {:git/url "https://github.com/usernms/fm.async.git"
-   :sha "fb66f2e7314d319b5e632f8532bb42f03805de05"}},
+  {:git/url "https://github.com/usernms/fm.git",
+   :sha "b45a79c12349ebb2994bfb758aa94921d5580c87"}},
  :aliases
  {:cljs
   {:extra-deps {org.clojure/clojurescript {:mvn/version "1.10.758"}}}},
